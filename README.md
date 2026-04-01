@@ -60,7 +60,7 @@
 <br />
 
 <div align="center">
-  <a href="https://github.com/eunivan">
+  <a href="https://github.com/eunivandejesus">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=eunivan&theme=radical&bg_color=00000000&hide_border=true" width="100%" alt="Activity Graph" />
   </a>
 </div>
