@@ -1,33 +1,32 @@
-Olá, eu sou o Eunivan de Jesus! 👋
+<div align="center">
 
-Desenvolvedor Legal Tech | IA & Machine Learning aplicado ao Direito
+<h1>Olá, eu sou o Eunivan de Jesus! 👋</h1>
 
-Sou um desenvolvedor focado na interseção entre tecnologia e direito. Atualmente, trabalho na Vale S.A. desenvolvendo plataformas jurídicas e explorando como tecnologias emergentes, como Inteligência Artificial e Machine Learning, podem transformar o setor.
+⚖️ Desenvolvedor Legal Tech | IA & Machine Learning aplicado ao Direito
+
+<p align="center">
+<img src="https://www.google.com/search?q=https://quotes-github-readme.vercel.app/api%3Ftype%3Dhorizontal%26quote%3DInovando%2520o%2520Direito%2520atrav%C3%A9s%2520da%2520tecnologia%2520e%2520intelig%C3%AAncia.%26author%3DEunivan%2520de%2520Jesus" alt="Quote" />
+</p>
+
+</div>
 
 🚀 Sobre Mim
 
-💼 Atualmente trabalhando na Vale S.A. no desenvolvimento de plataformas de direito.
+💼 Atualmente: Desenvolvendo soluções jurídicas na Vale S.A.
 
-🎓 Estudando na Universidade Veiga de Almeida (UVA).
+🎓 Formação: Graduando na Universidade Veiga de Almeida (UVA).
 
-🌱 Aprofundando conhecimentos em Claude (Anthropic), Antigravity e no idioma Inglês.
+🌱 Em aprendizado contínuo: Aprofundando em Claude (Anthropic), Antigravity e no idioma Inglês.
 
-💡 Foco em: IA Generativa, LLMs e Transformação Digital Jurídica.
+💡 Foco Técnico: IA Generativa, Large Language Models (LLMs) e Transformação Digital Jurídica.
 
-📫 Como me encontrar: eunivandejesus40@gmail.com
+📫 Contato: eunivandejesus40@gmail.com
 
 🛠️ Tecnologias e Ferramentas
 
 Linguagens de Programação & Web
 
 Tecnologias Modernas & IA (Meu Foco)
-
-📊 Estatísticas do GitHub
-
-<p align="center">
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Deunivan%26show_icons%3Dtrue%26theme%3Ddracula%26include_all_commits%3Dtrue%26count_private%3Dtrue" />
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Deunivan%26layout%3Dcompact%26langs_count%3D7%26theme%3Ddracula" />
-</p>
 
 🤝 Conecte-se comigo
 
@@ -40,6 +39,8 @@ Tecnologias Modernas & IA (Meu Foco)
 </a>
 </p>
 
-<p align="center">
-<i>"Inovando o Direito através da tecnologia e inteligência."</i>
-</p>
+<br />
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3Deunivan%26theme%3Ddracula%26bg_color%3D00000000%26hide_border%3Dtrue" width="100%" />
+</div>
