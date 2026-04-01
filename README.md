@@ -1,11 +1,11 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Eunivan+de+Jesus!+%F0%9F%91%8B;Desenvolvedor+Legal+Tech+%E2%9A%96%EF%B8%8F;Inovando+o+Direito+com+IA+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Eunivan+de+Jesus!+%F0%9F%91%8B;Desenvolvedora+Legal+Tech+%E2%9A%96%EF%B8%8F;Inovando+o+Direito+com+IA+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <b>⚖️ Desenvolvedor Legal Tech | IA & Machine Learning aplicado ao Direito</b>
+  <b>⚖️ Desenvolvedora Legal Tech | IA & Machine Learning aplicado ao Direito</b>
 </p>
 
 <p align="center">
@@ -19,7 +19,8 @@
 ### 🚀 Sobre Mim
 
 - 💼 **Atualmente:** Desenvolvendo soluções jurídicas na **Vale S.A.**
-- 🎓 **Formação:** Graduando na Universidade Veiga de Almeida (UVA).
+- 🎓 **Formação:** Graduanda na Universidade Veiga de Almeida (UVA) e em foco na preparação para a **OAB**.
+- 🏛️ **Background Jurídico:** Experiência prévia no **Tribunal de Justiça de Goiás (TJGO)** (com certificado de produtividade!), unindo a vivência real dos tribunais com a tecnologia.
 - 🌱 **Em aprendizado contínuo:** Aprofundando em Claude (Anthropic), Antigravity e no idioma Inglês.
 - 💡 **Foco Técnico:** IA Generativa, Large Language Models (LLMs) e Transformação Digital Jurídica.
 - 📫 **Contato:** [eunivandejesus40@gmail.com](mailto:eunivandejesus40@gmail.com)
